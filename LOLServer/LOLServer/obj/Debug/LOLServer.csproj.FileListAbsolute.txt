@@ -4,3 +4,6 @@ G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\bin\Debug\LOLServer.
 G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\obj\Debug\LOLServer.csprojResolveAssemblyReference.cache
 G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\obj\Debug\LOLServer.exe
 G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\obj\Debug\LOLServer.pdb
+F:\lkx01\lkx01\LOLServer\LOLServer\bin\Debug\LOLServer.exe.config
+F:\lkx01\lkx01\LOLServer\LOLServer\obj\Debug\LOLServer.exe
+F:\lkx01\lkx01\LOLServer\LOLServer\obj\Debug\LOLServer.pdb
