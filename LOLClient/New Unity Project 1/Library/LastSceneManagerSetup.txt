@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Texture/Login/background_fwqgx_1.unity
+  isLoaded: 1
+  isActive: 1

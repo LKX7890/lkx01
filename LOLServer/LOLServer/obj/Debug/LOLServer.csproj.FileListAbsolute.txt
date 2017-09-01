@@ -1,0 +1,6 @@
+G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\bin\Debug\LOLServer.exe.config
+G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\bin\Debug\LOLServer.exe
+G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\bin\Debug\LOLServer.pdb
+G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\obj\Debug\LOLServer.csprojResolveAssemblyReference.cache
+G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\obj\Debug\LOLServer.exe
+G:\person_project\project\g01\LOLServer\LOLServer\LOLServer\obj\Debug\LOLServer.pdb
